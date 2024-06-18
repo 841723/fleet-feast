@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Categoria_de_plato">
+        <item>PRIMERO</item>
+        <item>SEGUNDO</item>
+        <item>POSTRE</item>
+    </string-array>
+    <string-array name="opciones_filtro">
+        <item>CATEGORIA</item>
+        <item>NOMBRE</item>
+    </string-array>
+    <string-array name="estados_pedidos">
+        <item>SOLICITADO</item>
+        <item>PREPARADO</item>
+        <item>RECOGIDO</item>
+    </string-array>
+</resources>
