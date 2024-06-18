@@ -1,10 +1,6 @@
 # IS
 Practicas de la asignatura Ingeniería de Servidores del Grado en Ingeniería Informática de la Universidad de Zaragoza
 
-Realizado por:
-- Diego Raul Roldan Urueña - 841723
-- Abel Romeo Lancina - 846088
-
 Entregado el 28 de diciembre de 2023
 
 ## Estructura del repositorio
